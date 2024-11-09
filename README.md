@@ -21,6 +21,8 @@ Comedy, humor, and jokes all play a significant role in entertainment and human 
 #
 ### AI and Humor
 
+![ChatGPT](https://github.com/user-attachments/assets/c54117df-f4ee-4a1e-855b-9fec3fd35df0)
+
 People's perception of humor is deeply personal and often shaped by their cultural background, individual experiences, and emotional state. What one person finds funny, another might not, due to these varying factors. Humor is dynamic because it constantly evolves depending on context, timing, and social cues. A joke that may be hilarious in one situation might fall flat in another, highlighting how humor is tied to the nuances of human interaction. This subjectivity allows humor to foster connections between people, often revealing shared experiences, values, or inside jokes that build camaraderie.
 
 AI, on the other hand, does not have the same dynamic understanding of humor. When AI is asked to rate the humor of an image, it relies on preprogrammed algorithms and data sets to assess patterns, but it lacks the emotional depth and cultural awareness that humans bring to humor. AI can recognize certain visual or linguistic cues associated with humor, such as exaggeration or absurdity, but it does not understand the underlying context or the personal nature of why something might be funny to a specific individual or group. This makes AI's sense of humor static and one-dimensional compared to the fluid, ever-changing nature of human humor.
