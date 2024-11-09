@@ -5,6 +5,19 @@
 
 Comedy, humor, and jokes all play a significant role in entertainment and human interaction by evoking laughter and providing relief from the stresses of daily life. Comedy is the art of creating situations, dialogue, or performances designed to amuse, often highlighting absurdities or contradictions in human behavior. Humor is a broader concept that encompasses the ability to find joy in the unexpected, laugh at ourselves, or appreciate the cleverness of wordplay. Jokes, on the other hand, are concise forms of humor, often structured to lead to a punchline, making them easily shared and enjoyed in social settings. Together, they allow people to bond, reflect, and momentarily escape from the ordinary.
 
+| Type of Humor         | Description                                                   |
+|-----------------------|---------------------------------------------------------------|
+| Verbal Humor          | Humor based on language, such as puns, wordplay, or sarcasm.  |
+| Physical Humor        | Humor that relies on body language, gestures, or slapstick.    |
+| Situational Humor     | Humor that arises from unexpected or absurd situations.        |
+| Dark Humor            | Humor that deals with serious or taboo subjects in a comedic way.|
+| Self-deprecating Humor| Humor where the person making the joke makes fun of themselves.|
+| Satire                | Humor that criticizes or mocks society, politics, or institutions.|
+| Parody                | Humor that imitates or exaggerates the style of a particular work or genre.|
+| Absurd Humor          | Humor that is nonsensical, illogical, or surreal.              |
+| Dry Humor             | Humor delivered in a serious or deadpan manner, without showing emotion.|
+| Irony                 | Humor that highlights a contrast between expectations and reality.|
+
 #
 ### AI and Humor
 
